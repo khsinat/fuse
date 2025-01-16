@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "Fusion Next Technologies",
+    "base_url": "/",
+    "favicon": "/images/fusionlogo.png",
+    "logo": "/images/fusionlogo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "Fusion next"
+  },
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "careers.fusionnexttechnologies@gmail.com",
+    "footer_content2": "SCO 50-51, Sector 34A, Sector 34, Chandigarh, 160022",
+    "copyright": ""
+  },
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
